@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Profile Page</string>
+    <string name="name">Joy Wanjiku Kangangi</string>
+    <string name="bio">I am a tech enthusiast and currently I am working on android development.
+        \nYou can contact me through these platforms.</string>
+    <string name="git">GitHub</string>
+    <string name="good">Goodreads</string>
+    <string name="ig">Instagram</string>
+    <string name="kaggle">Kaggle</string>
+    <string name="meds">Medium</string>
+    <string name="pint">Pinterest</string>
+    <string name="up">UpWork</string>
+    <string name="twit">Twitter</string>
+    <string name="sky">Skype</string>
+    <string name="email">Email Address:joywanjiku@gmail.com</string>
+    <string name="giticon">GitHub Icon</string>
+    <string name="goodicon">Goodreads\' icon</string>
+    <string name="upw">Upwork icon</string>
+    <string name="kag">Kaggle icon</string>
+    <string name="sk">Skype icon</string>
+    <string name="tw">Twitter icon</string>
+    <string name="pin">Pinterest icon</string>
+    <string name="medi">Medium icon</string>
+    <string name="inst">Instagram icon</string>
+</resources>
